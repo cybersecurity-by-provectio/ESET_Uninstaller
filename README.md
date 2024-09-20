@@ -47,5 +47,3 @@ Ce script PowerShell permet la désinstallation silencieuse d'ESET Endpoint Secu
 Ce script est fourni tel quel. L'auteur ne saurait être tenu responsable des dommages ou des pertes résultant de l'utilisation de ce script. Assurez-vous de comprendre ce que fait le script avant de l'exécuter.
 
 ---
-
-Tu peux copier ce texte dans un fichier `README.txt` ou le partager directement pour accompagner ton script.

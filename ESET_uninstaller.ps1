@@ -6,7 +6,7 @@ Write-Host `
 |          Script de suppression      |
 |      ESET Endpoint Security + Agent |
 |                                     |
-| Développé par Cy6er-Guy             |
+|        Développé par Cy6er-Guy      |
 |                                     |
 ______________________________________ " `
 -ForegroundColor Yellow
